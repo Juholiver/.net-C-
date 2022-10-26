@@ -1,0 +1,15 @@
+C:\C#\SomaDeNumeros\bin\Debug\net6.0\SomaDeNumeros.exe
+C:\C#\SomaDeNumeros\bin\Debug\net6.0\SomaDeNumeros.deps.json
+C:\C#\SomaDeNumeros\bin\Debug\net6.0\SomaDeNumeros.runtimeconfig.json
+C:\C#\SomaDeNumeros\bin\Debug\net6.0\SomaDeNumeros.dll
+C:\C#\SomaDeNumeros\bin\Debug\net6.0\SomaDeNumeros.pdb
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\SomaDeNumeros.csproj.AssemblyReference.cache
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\SomaDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\SomaDeNumeros.AssemblyInfoInputs.cache
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\SomaDeNumeros.AssemblyInfo.cs
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\SomaDeNumeros.csproj.CoreCompileInputs.cache
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\SomaDeNumeros.dll
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\refint\SomaDeNumeros.dll
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\SomaDeNumeros.pdb
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\SomaDeNumeros.genruntimeconfig.cache
+C:\C#\SomaDeNumeros\obj\Debug\net6.0\ref\SomaDeNumeros.dll

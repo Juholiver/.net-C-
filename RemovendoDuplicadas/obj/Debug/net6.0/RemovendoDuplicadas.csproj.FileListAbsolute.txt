@@ -1,0 +1,15 @@
+C:\C#\RemovendoDuplicadas\bin\Debug\net6.0\RemovendoDuplicadas.exe
+C:\C#\RemovendoDuplicadas\bin\Debug\net6.0\RemovendoDuplicadas.deps.json
+C:\C#\RemovendoDuplicadas\bin\Debug\net6.0\RemovendoDuplicadas.runtimeconfig.json
+C:\C#\RemovendoDuplicadas\bin\Debug\net6.0\RemovendoDuplicadas.dll
+C:\C#\RemovendoDuplicadas\bin\Debug\net6.0\RemovendoDuplicadas.pdb
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\RemovendoDuplicadas.csproj.AssemblyReference.cache
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\RemovendoDuplicadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\RemovendoDuplicadas.AssemblyInfoInputs.cache
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\RemovendoDuplicadas.AssemblyInfo.cs
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\RemovendoDuplicadas.csproj.CoreCompileInputs.cache
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\RemovendoDuplicadas.dll
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\refint\RemovendoDuplicadas.dll
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\RemovendoDuplicadas.pdb
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\RemovendoDuplicadas.genruntimeconfig.cache
+C:\C#\RemovendoDuplicadas\obj\Debug\net6.0\ref\RemovendoDuplicadas.dll

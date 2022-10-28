@@ -1,24 +1,34 @@
-﻿
+﻿using System;
 
-    class Program
+public class Program
+{
+    public static void Main()
     {
-        static void Main()
+        string[] palavraDuplicadas = { "abracaadabra", "allottee", "assessee", "kelless", "keenness", "alfalggo" };
+        string[] palavraFinal = new string[6];
+
+        for (int j = 0; j < palavraDuplicadas.Length; j++)
         {
-            string palavraDuplicadas = "abracadabra; allottee; assessee; kelless; keenness; alfalggo ";
-            string palavraFinal = "";
-                for (int i = 0; i < palavraDuplicadas.Length; i++)
+            string aux = "";
+            for (int i = 0; i < palavraDuplicadas[j].Length; i++)
+            {
+                if (i > 0 && palavraDuplicadas[j][i - 1] == palavraDuplicadas[j][i])
                 {
-                    if(i > 0 && palavraDuplicadas[i-1] == palavraDuplicadas[i])
-                    {
-                        continue;
-                    }
-                palavraFinal = palavraFinal + palavraDuplicadas[i];
+                    continue;
                 }
-        Console.WriteLine(palavraDuplicadas);
-        Console.WriteLine("---------------------------***--------------------------");
-        Console.WriteLine(palavraFinal);
+                aux = aux + palavraDuplicadas[j][i].ToString();
+            }
+            palavraFinal[j] = aux;
         }
 
-           
-       
+        foreach (string duplicadas in palavraDuplicadas)
+        {
+            Console.Write(duplicadas + " ");
+        }
+        Console.WriteLine("\n ---------------------------*--------------------------");
+        foreach (string final in palavraFinal)
+        {
+            Console.Write(final + " ");
+        }
     }
+}
